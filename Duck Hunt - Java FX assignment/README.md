@@ -8,4 +8,4 @@ The command that is needed to RUN my implementation:
 
 ////////// LOCATION OF ASSETS ////////// src/ ///////////////////////////////////////////////////
 
-////////// EXTRA INFORMATION ////////// I noticed that I did not turn on the screen sound of the Youtube video unfortunately but when the code runs, music also plays. video link: https://youtu.be/MNZuD6wqTkE ///////////////////////////////////////////////////
+////////// EXTRA INFORMATION ////////// I noticed that I did not turn on the screen sound of the Youtube video unfortunately but when the code runs, music also plays. VIDEO LINK: https://youtu.be/MNZuD6wqTkE ///////////////////////////////////////////////////
